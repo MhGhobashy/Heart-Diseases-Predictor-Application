@@ -5,8 +5,8 @@ You can view the model used in this application here: [Heart Diseases Predictor 
 
 The model itself in terms of accuracy, precision, and recall is doing a great job, but the dataset needs some cleaning because there's a couple of rows that don't make any sense, medically speaking.
 The application has 3 pages:
-### Main page:
-<img src="https://github.com/MhGhobashy/Heart-Diseases-Predictor-Application/blob/main/main.jpeg" width="300" height="620">
+### Main page: 
+<img src="https://github.com/MhGhobashy/Heart-Diseases-Predictor-Application/blob/main/pictures/main.jpeg" width="300" height="620">
 
 ### AI model page:
 <img src="https://github.com/MhGhobashy/Heart-Diseases-Predictor-Application/blob/main/model.jpeg" width="300" height="620">
