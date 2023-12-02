@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">CardioVascular Diseases Predictor</string>
+
+    <string name="knowMore">Know more about heart diseases: <a href="">CDC.gov</a> </string>
+    <string name="prevent">Know how to prevent heart diseases: <a href="">CDC.gov</a> </string>
+    <string name="aimodel">Know more about our AI model: <a href="">Random Forest</a> </string>
+    <string name="doctors">Find the best cardiologists near you: <a href="">Vezeeta.com</a> </string>
+
+    <string name="hospitals">Find the best hospitals near you: <a href="">Lyfboat.com</a> </string>
+
+</resources>
+
