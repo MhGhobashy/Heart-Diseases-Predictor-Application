@@ -9,11 +9,11 @@ The application has 3 pages:
 <img src="https://github.com/MhGhobashy/Heart-Diseases-Predictor-Application/blob/main/pictures/main.jpeg" width="300" height="620">
 
 ### AI model page:
-<img src="https://github.com/MhGhobashy/Heart-Diseases-Predictor-Application/blob/main/model.jpeg" width="300" height="620">
-<img src="https://github.com/MhGhobashy/Heart-Diseases-Predictor-Application/blob/main/model1.jpeg" width="300" height="620">
+<img src="https://github.com/MhGhobashy/Heart-Diseases-Predictor-Application/blob/main/pictures/model.jpeg" width="300" height="620">
+<img src="https://github.com/MhGhobashy/Heart-Diseases-Predictor-Application/blob/main/pictures/model1.jpeg" width="300" height="620">
 
 ### Information page:
-<img src="https://github.com/MhGhobashy/Heart-Diseases-Predictor-Application/blob/main/info.jpeg" width="300" height="620">
+<img src="https://github.com/MhGhobashy/Heart-Diseases-Predictor-Application/blob/main/pictures/info.jpeg" width="300" height="620">
 which contains explanation about chest pain and its values and exercise induced angina, and information about causes, preventions, and near hospitals and doctors
 
 This model was deployed using Flask and Render.com. Although render is somehow slow, but it's one of the best free options.
