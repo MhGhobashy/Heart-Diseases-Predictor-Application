@@ -94,7 +94,7 @@ public class data extends AppCompatActivity {
         chip.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                goLink("https://www.turing.com/kb/random-forest-algorithm");
+                goLink("https://www.shiksha.com/online-courses/articles/understanding-multilayer-perceptron-mlp-neural-networks/");
             }
         });
     }
