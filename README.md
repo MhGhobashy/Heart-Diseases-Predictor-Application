@@ -11,7 +11,7 @@ The application has 3 pages:
 <img src="https://github.com/MhGhobashy/Heart-Diseases-Predictor-Application/blob/main/assets/114983742/bd75fc72-0564-4c4e-a172-69def82705fa" width="300" height="200">
 
 ### Information page:
-<img src="[https://github.com/MhGhobashy/Heart-Diseases-Predictor-Application/blob/main/info.jpeg]" width="300" height="200">
+<img src="https://github.com/MhGhobashy/Heart-Diseases-Predictor-Application/blob/main/info.jpeg" width="300" height="200">
 which contains explanation about chest pain and its values and exercise induced angina, and information about causes, preventions, and near hospitals and doctors
 
 This model was deployed using Flask and Render.com. Although render is somehow slow, but it's one of the best free options.
