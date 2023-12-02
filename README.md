@@ -1,4 +1,6 @@
 # Heart-Diseases-Predictor-Application
+This is an android application made using Java that uses machine learning model to predict the possibility of heart diseases occurance
+
 You can view the model used in this application here: [Heart Diseases Predictor Application](https://www.kaggle.com/code/mghobashy/heart-diseases-predictor-application?scriptVersionId=153284807)
 
 The model itself in terms of accuracy, precision, and recall is doing a great job, but the dataset needs some cleaning because there's a couple of rows that don't make any sense, medically speaking.
