@@ -1,5 +1,5 @@
 # Heart-Diseases-Predictor-Application
-This is an android application made using Java that uses machine learning model to predict the possibility of heart diseases occurance
+This is an android application made using Java that uses machine learning model (MLP model) to predict the possibility of heart diseases occurance.
 
 You can view the model used in this application here: [Heart Diseases Predictor Application](https://www.kaggle.com/code/mghobashy/heart-diseases-predictor-application?scriptVersionId=153284807)
 
@@ -14,6 +14,6 @@ The application has 3 pages:
 
 ### Information page:
 <img src="https://github.com/MhGhobashy/Heart-Diseases-Predictor-Application/blob/main/pictures/info.jpeg" width="300" height="620">
-which contains explanation about chest pain and its values and exercise induced angina, and information about causes, preventions, and near hospitals and doctors
+which contains explanation about chest pain and its values and exercise induced angina, and information about causes, preventions, and near hospitals and doctors.
 
 This model was deployed using Flask and Render.com. Although render is somehow slow, but it's one of the best free options.
