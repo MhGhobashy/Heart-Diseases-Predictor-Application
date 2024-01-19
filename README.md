@@ -1,5 +1,5 @@
 # Heart-Diseases-Predictor-Application
-This is an android application made using Java that uses machine learning model (MLP model) to predict the possibility of heart diseases occurance.
+This is an android application made using Java that uses machine learning model (MLP model) to predict the possibility of heart diseases occurrence.
 
 You can view the model used in this application here: [Heart Diseases Predictor Application](https://www.kaggle.com/code/mghobashy/heart-diseases-predictor-application?scriptVersionId=153284807)
 
